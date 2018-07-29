@@ -1,16 +1,12 @@
-p{
-text-align: center;    
-color:orange;
-}
+
 body{
-background-color: white;
+background-color:#FF5864;
+background:url( paw-print-templates-bear-paw-print-stencil-free-download-clip-art-free-clip-art-download.png);
+background-size: 20%;
 }
-img{
-max-width: 100%;
-padding-left: 400px;
-padding-bottom: 20px;
-}
+
 #button{
 text-align: center;
-padding-bottom: 500px;
+padding-top: 530px;
+padding-right: 10px;
 }
