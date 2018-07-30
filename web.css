@@ -7,7 +7,13 @@ background-size: 20%;
 
 #button{
 text-align: center;
-padding-bottom: 530px;
-padding-left: 440px;
-color: orange;
+padding-bottom: 300px;
+padding-left: 700px;
+color: black;
+}
+#media img{
+width:2%;
+position:relative;
+bottom: 320px;
+right: 0px;
 }
