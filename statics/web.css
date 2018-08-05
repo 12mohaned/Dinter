@@ -1,19 +1,21 @@
-
 body{
-background-color:#FF5864;
 background:url( paw-print-templates-bear-paw-print-stencil-free-download-clip-art-free-clip-art-download.png);
 background-size: 20%;
 }
-
 #button{
 text-align: center;
-padding-bottom: 300px;
-padding-left: 700px;
-color: black;
+position: absolute;
+left: 0px;
 }
 #media img{
-width:2%;
+width:2.5%;
 position:relative;
-bottom: 320px;
-right: 0px;
+left : 98%;
+bottom: 0px;
+}
+.dog_tinder{
+position: absolute;
+width:3.5%;
+left: 48.6%;
+top:0px;
 }
