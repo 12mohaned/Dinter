@@ -1,0 +1,16 @@
+body{
+max-width: 50%;
+}
+.header{
+color: coral;
+font-size: 70px;
+position: relative;
+left: 400px;
+bottom: -30px;
+}
+.media {
+font-size: 70px;
+position: relative;
+left: 850px;
+bottom: 135px;
+}
